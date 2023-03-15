@@ -3,3 +3,5 @@
 date
 whoami
 ls
+pwd
+which git
